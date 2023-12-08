@@ -1,5 +1,6 @@
 # Partima-s-Portfolio
 #This is my personal portfolio i will update it Further
+#Here you need to download the Given images need to paste the address of the images as per your desktop
 <!DOCTYPE html>
 <html lang="en">
 
